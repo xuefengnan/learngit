@@ -4,6 +4,10 @@ git is a distributed version control system
 git has a mutable index called stage
 git tracks changes of files
 test tracks changes
-creating a new branch is quich
+creating a new feature1 is quick
 
+<<<<<<< HEAD
 creating a branch is quick & simple
+=======
+creating a branch feature1
+>>>>>>> feature1
