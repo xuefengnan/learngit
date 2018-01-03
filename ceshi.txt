@@ -6,9 +6,3 @@ git tracks changes of files
 test tracks changes
 creating a 
 
-<<<<<<< HEAD
-creating a branch is quick & simple
-=======
-creating a branch feature1
->>>>>>> feature1
-switch to dev bug
