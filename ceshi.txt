@@ -6,3 +6,4 @@ git tracks changes of files
 test tracks changes
 creating a new branch is quich
 
+creating a branch feature1
